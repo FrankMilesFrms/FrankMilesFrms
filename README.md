@@ -33,18 +33,10 @@ If you have any questions about my project, please contact me by [email](3505826
   <img align="left"  width="22px" src="https://ts1.cn.mm.bing.net/th?id=ODLS.e77e4ebd-d2e4-408e-a6af-771755cd7ea5&w=24&h=24&o=6&pid=1.2" />
 </a>
 
-<br/>
 
-<p />
-<a href="https://juejin.cn/user/92803470470573">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMilesFrms" />
-</a>
-
-
-<br />
 
 ## ⚡ Others
 
   ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FrankMilesFrms&show_icons=true&theme=tokyonight)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankMilesFrms&theme=cobalt2&show_icons=true)
-  
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMilesFrms" />
