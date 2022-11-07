@@ -29,12 +29,12 @@ If you have any questions about my project, please contact me by [email](3505826
  
  如果你对我的项目有任何疑问，请通过[邮件](3505826836@qq.com)联系我！
  
-## ⚡ Platforms
+### ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-  <p align="right"> <img src="[https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMilesFrms)" alt="[abhisheknaiidu](https://github.com/FrankMilesFrms/github-readme-stats)" />
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMilesFrms" alt="https://github.com/FrankMilesFrms/github-readme-stats" />
 
 
   
