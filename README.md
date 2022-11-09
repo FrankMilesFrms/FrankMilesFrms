@@ -23,11 +23,11 @@ If you have any questions about my project, please contact me by [email](3505826
  
 ## ⚡ Platforms & Blog
 
-<a href="https://github.com/FrankMilesFrms/FrankMilesFrms">
+<a href="https://github.com/FrankMilesFrms">
  <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
-<a href="https://github.com/FrankMilesFrms/FrankMilesFrms">
+<a href="https://github.com/FrankMilesFrms">
  <img align="left"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
