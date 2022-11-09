@@ -7,14 +7,15 @@
 <a href="https://www.deviantart.com/wendy13/art/Chii-Cat-89735448">
   <img align="right" width = 200 height = 200  src="http://5b0988e595225.cdn.sohucs.com/images/20181102/bc96e86be6304887ae7aa5a0265620e9.jpeg" />
  </a>
-Hi, I am Frank Miles, You can also call me `Frms`. 
+ 
+Hi, I am **Frank Miles**, You can also call me `Frms`.
 
 I will share some interesting projects from time to time, if you are interested in Android and Windows development, please do follow me!
 
 If you have any questions about my project, please contact me by [email](3505826836@qq.com) :)
 
  
- 你好！我是Frank Miles，你也可以叫我`Frms`。
+ 你好！我是**Frank Miles**，你也可以叫我`Frms`。
  
  我会不定时分享一些有趣的移动端或电脑端的项目，给颗星星关注吧！
  
@@ -30,7 +31,7 @@ If you have any questions about my project, please contact me by [email](3505826
  <img align="left"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
-<a href="https://m.bilibili.com/space/73812271">
+<a href="https://b23.tv/N9ZZUDO">
   <img align="left" width="22px" src="https://ts1.cn.mm.bing.net/th?id=ODLS.4ce7043c-066c-4c41-bb41-16101bee101b&w=24&h=24&o=6&pid=1.2" />
 </a>
 
