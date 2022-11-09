@@ -30,7 +30,7 @@ If you have any questions about my project, please contact me by [email](3505826
  <img align="left"  src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 
-<a href="https://space.bilibili.com/73812271">
+<a href="https://m.bilibili.com/space/73812271">
   <img align="left" width="22px" src="https://ts1.cn.mm.bing.net/th?id=ODLS.4ce7043c-066c-4c41-bb41-16101bee101b&w=24&h=24&o=6&pid=1.2" />
 </a>
 
