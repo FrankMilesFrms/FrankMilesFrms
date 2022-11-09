@@ -48,7 +48,7 @@ If you have any questions about my project, please contact me by [email](3505826
 ## ⚡ Others
 
 <div align="center"> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMilesFrms&hide_title=true&hide_border=true&layout=compact&theme=graywhite" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankMilesFrms&hide_title=true&hide_border=true&layout=compact&theme=tokyonight" /> 
 </div>
 
  
