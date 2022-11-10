@@ -10,7 +10,7 @@
  
 Hi, I am **Frank Miles**, You can also call me `Frms`.
 
-I will share some interesting projects from time to time, if you are interested in Android and Windows development, please do follow me!
+I will share some interesting projects from time to time, if you are interested in Android or Windows development, please do follow me!
 
 If you have any questions about my project, please contact me by [email](3505826836@qq.com) :)
 
