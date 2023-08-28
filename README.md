@@ -12,14 +12,14 @@ Hi, I am **Frank Miles**, You can also call me `Frms`.
 
 I will share some interesting projects from time to time, if you are interested in Android or Windows development, please do follow me!
 
-If you have any questions about my project, please contact me by [email](3505826836@qq.com) :)
+If you have any questions about my project, please contact me by [email](FrankMiles@qq.com) :)
 
  
  你好！我是**Frank Miles**，你也可以叫我`Frms`。
  
  我会不定时分享一些有趣的移动端或电脑端的项目，给颗星星关注吧！
  
- 如果你对我的项目有任何疑问，请通过[邮件](3505826836@qq.com)联系我！
+ 如果你对我的项目有任何疑问，请通过[邮件](FrankMiles@qq.com)联系我！
  
 ## ⚡ Platforms & Blog
 
